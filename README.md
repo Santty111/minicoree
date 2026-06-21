@@ -6,6 +6,12 @@ La aplicación resuelve un problema de logística fundamental: **Calcular el cos
 
 ---
 
+## 🎥 Video Demostrativo y Explicativo
+Puedes ver la explicación de la arquitectura y la demostración funcional en el siguiente enlace:
+👉 [Ver Video de Demostración en YouTube](https://youtu.be/Z1_xONGu6pc)
+
+---
+
 ## 🏗️ Arquitectura y Patrones de Diseño
 
 La estructura del proyecto está organizada para asegurar un desacoplamiento completo de la lógica de negocio pura frente al framework visual y los datos de infraestructura.
