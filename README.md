@@ -174,3 +174,9 @@ Esta aplicación está completamente optimizada para ser desplegada en **Vercel*
     *   **Build Command**: `tsc -b && vite build`
     *   **Output Directory**: `dist`
 5.  Haz clic en **"Deploy"** y la aplicación estará lista en pocos segundos con SSL e integración continua de producción.
+
+---
+
+## 📬 Contacto
+Si tienes alguna pregunta o sugerencia sobre esta implementación, puedes contactarme a:
+📧 [santiago.conlago@udla.edu.ec](mailto:santiago.conlago@udla.edu.ec)
