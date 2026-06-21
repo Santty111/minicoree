@@ -6,9 +6,10 @@ La aplicación resuelve un problema de logística fundamental: **Calcular el cos
 
 ---
 
-## 🎥 Video Demostrativo y Explicativo
-Puedes ver la explicación de la arquitectura y la demostración funcional en el siguiente enlace:
-👉 [Ver Video de Demostración en YouTube](https://youtu.be/Z1_xONGu6pc)
+## 🚀 Demostración en Vivo y Video Explicativo
+
+*   **Sitio Web en Vercel**: 👉 [minicoree.vercel.app](https://minicoree.vercel.app)
+*   **Video de Explicación (YouTube)**: 👉 [Ver Video en YouTube](https://youtu.be/Z1_xONGu6pc)
 
 ---
 
